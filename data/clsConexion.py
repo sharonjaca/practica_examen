@@ -19,8 +19,8 @@ class clsConexion():
     # Recuerde cambiar la dirección y contraseña de su servidor
     servidor = '127.0.0.1'
     basedatos = 'prueba'
-    usuario = 'root'
-    contra = 'parda99*'
+    usuario = 'sharonjaca'
+    contra = 'Dereck5833'
 
     def __init__(self):
         pass
